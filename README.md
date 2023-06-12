@@ -5,7 +5,8 @@ foods you put it in a jar on shelf? like granualr material : Tea, Pop corn, herb
 there is nothing made to detect the lack of them. so although you live in smart home </br>
 but you surprised of empty jars! </br>
 
-![resques](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/cc7d0b4b-cfca-4591-8b8c-7a325bb8d5c1)
+![resques](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/9ded49f1-88a0-4b7d-b11f-8a39a3b9c2ac)
+
 
 
   
