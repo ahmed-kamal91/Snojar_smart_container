@@ -6,12 +6,5 @@ there is nothing made to detect the lack of them. so although you live in smart 
 but you surprised of empty jars! </br>
 
 ![zeze](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/36399103-c83a-44ab-996c-0732837ec224)
-
-
-
-
-
-
-
   
   
