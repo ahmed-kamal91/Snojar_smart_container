@@ -8,6 +8,8 @@ but you surprised of empty jars! </br>
 
 ![سشسشسشسشس](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/edbef342-897c-47cf-8f05-25c2944b18c6)  
 # PillDispenser Overview:
+Smart container or  jar, weigh what inside. If readings is less than expected, a jar send notification to owner’s phone, to notify him and ask if he need to auto purchase and ordering to his house.
+
 
   ![Picture1](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/e7a35402-f6d2-4950-80a8-4702f65f7c36)
 
