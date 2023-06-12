@@ -7,7 +7,7 @@ but you surprised of empty jars! </br>
 
 
 ![سشسشسشسشس](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/edbef342-897c-47cf-8f05-25c2944b18c6)  
-# PillDispenser Overview:
+# SnoJar Overview:
 from this view we made, smart home priduct monitor what is in it so that if it's about to run out,</br>
 it sends noification to the owner, asking him to buy by hinmself or auto purchase (after taking the address and vise card numbers).</br>
 So, here is the solution. you may think it is silly problem, you are right it already is, but we find the solution anyway. </br>
