@@ -14,4 +14,13 @@ So, here is the solution. you may think it is silly problem, you are right it al
 
 ![container222](https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/fca45a5a-1a01-42f3-81c8-ec27fefc979c)
 
+# for more details
+you can see my explanation video for Idea and the integrated components </br>
+https://www.loom.com/share/e6f77440540044a29ca9cbeb56f4d50c?sid=eb502f1b-4688-4a3b-92fa-17d9a7c939ea
+
+# Output
+this is only version one from product.</br>
+contain the main tasks</br>
+
+https://github.com/ahmed-kamal91/Snojar_smart_container/assets/91970695/f3b59745-bb5a-4f4a-b308-807773527f56
 
